@@ -14,6 +14,7 @@
   - [Dubbo](#Dubbo)
   - [WebSocket](#WebSocket)
   - [SSO](#SSO)
+  - [FastDFS](#FastDFS)
  
  ## 基础网站
  
@@ -51,6 +52,15 @@
   * [SSO - cookies-redis实现单点登录](https://www.it610.com/article/1279570002063671296.html) 
   * [SSO - 跨域解决方法](https://blog.csdn.net/universsky2015/article/details/108994015) 
   * [SSO - CAS单点登录配置(看次博主的CAS单点登录模块)](https://www.cnblogs.com/fdzang/) 
+  
+ ### FastDFS
+  * [FastDFS - 百度百科](https://baike.baidu.com/item/fastdfs/5609710?fr=aladdin) 
+  * [FastDFS - 安装](https://www.cnblogs.com/jybky/p/12668807.html) 
+  * [FastDFS - 整合SpringBoot](https://blog.csdn.net/weixin_42313701/article/details/104108704) 
+  
+  
+ 
+ 
   
   
  
