@@ -32,7 +32,7 @@
  * [zookeeper - 百度百科](https://baike.baidu.com/item/zookeeper/4836397?fr=aladdin) 
  * [zookeeper - 使用场景](https://www.cnblogs.com/lingboweifu/p/11897169.html) 
  
- ### Dubbo-开源分布式服务框架
+ ### Dubbo
   * [Dubbo - 百度百科](https://baike.baidu.com/item/Dubbo/18907815?fr=aladdin) 
   * [Dubbo - 项目官网](http://dubbo.apache.org/) 
   * [Dubbo - 在线讲解文档PPT](https://wenku.baidu.com/view/0f70481aff4733687e21af45b307e87101f6f894.html) 
@@ -46,7 +46,7 @@
   * [WebSocket - 详细教程-2](https://www.cnblogs.com/jingmoxukong/p/7755643.html) 
   * [WebSocket - 整合SpringBoot](https://blog.csdn.net/moshowgame/article/details/80275084) 
   
- ### SSO-单点登录
+ ### SSO
   * [SSO - 百度百科](https://baike.baidu.com/item/SSO/3451380?fr=aladdin) 
   * [SSO - cookies-redis实现单点登录](https://www.it610.com/article/1279570002063671296.html) 
   * [SSO - 跨域解决方法](https://blog.csdn.net/universsky2015/article/details/108994015) 
