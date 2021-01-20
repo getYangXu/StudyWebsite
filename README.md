@@ -15,6 +15,10 @@
   - [WebSocket](#WebSocket)
   - [SSO](#SSO)
   - [FastDFS](#FastDFS)
+  - [OSS](#OSS)
+  - [MyCat](#MyCat)
+  
+  
  
  ## 基础网站
  
@@ -57,8 +61,22 @@
   * [FastDFS - 百度百科](https://baike.baidu.com/item/fastdfs/5609710?fr=aladdin) 
   * [FastDFS - 安装](https://www.cnblogs.com/jybky/p/12668807.html) 
   * [FastDFS - 整合SpringBoot](https://blog.csdn.net/weixin_42313701/article/details/104108704) 
+   
+ ### OSS
+  * [OSS - 阿里简介](https://help.aliyun.com/document_detail/31947.html) 
+    
+ ### MyCat
+  * [MyCat - 百度百科](https://baike.baidu.com/item/Mycat/17438560) 
+  * [MyCat - 从入门到放弃](https://blog.csdn.net/u013235478/article/details/53178657) 
   
   
+  
+  
+ 
+ 
+  
+  
+
  
  
   
