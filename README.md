@@ -21,6 +21,9 @@
   - [MyCat](#MyCat)
   - [Docker](#Docker)
   - [Vue](#Vue)
+  - [Shiro](#Shiro)
+  
+  https://baike.baidu.com/item/shiro/17753571?fr=aladdin
   
   
  
@@ -105,6 +108,23 @@
    * [Vue - 事件处理](https://cn.vuejs.org/v2/guide/events.html)
    * [Vue - axios](http://www.voidcn.com/article/p-ootignpr-bod.html)
    * [Vue - 表单输入](https://cn.vuejs.org/v2/guide/forms.html)
+   
+  ### Shiro
+   * [Shiro - 百度百科](https://baike.baidu.com/item/shiro/17753571?fr=aladdin)
+   * [Shiro - 简介](https://www.ibm.com/developerworks/cn/web/wa-apacheshiro/index.html)
+   * [Shiro - 架构(博客)](https://www.cnblogs.com/strinkbug/p/6117353.html)
+   * [Shiro - 过滤器](https://www.cnblogs.com/strinkbug/p/6117353.html)
+   * [Shiro - 认证](https://www.cnblogs.com/youzhibing/p/10122606.html)
+   * [Shiro - 自定义realm](https://www.cnblogs.com/wujianwu/p/11259488.html)
+   
+   
+   
+   
+   
+   
+   
+   
+
    
    
    
