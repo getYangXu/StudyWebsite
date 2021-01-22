@@ -9,6 +9,8 @@
 - [基础网站](#基础网站)
   - [Java基础学习](#Java基础学习)
 - [高阶网站](#高阶网站)
+- [常用网站](#常用网站)
+  - [Linux](#Linux)
 - [拓展网站](#拓展网站)
   - [Zookeeper](#Zookeeper)
   - [Dubbo](#Dubbo)
@@ -17,18 +19,36 @@
   - [FastDFS](#FastDFS)
   - [OSS](#OSS)
   - [MyCat](#MyCat)
+  - [Docker](#Docker)
+  - [Vue](#Vue)
   
   
  
  ## 基础网站
  
  ### Java基础学习
-  * [Java基础学习]( http://www.weixueyuan.net/java/rumen/) 
+  * [Java基础学习](http://www.weixueyuan.net/java/rumen/) 
 
 
  
  
  ## 高阶网站
+ 
+ ## 常用网站
+ 
+ ### Linux
+  * [Linux - 百度百科](https://baike.baidu.com/item/Linux/27050?fr=aladdin) 
+  * [Linux - 安装教程](https://www.runoob.com/linux/linux-install.html)
+  * [Linux - 基础教程](https://www.runoob.com/linux/linux-tutorial.html) 
+  * [Linux - 网络基础](https://www.cnblogs.com/mrwuzs/p/9482828.html)   
+  * [Linux - VMware安装Linux](https://www.cnblogs.com/yunwangjun-python-520/p/11288690.html)
+  * [Linux - Linux命令](https://www.runoob.com/linux/linux-command-manual.html)     
+  
+  
+  
+
+ 
+  
  
  
  ## 拓展网站
@@ -67,7 +87,39 @@
     
  ### MyCat
   * [MyCat - 百度百科](https://baike.baidu.com/item/Mycat/17438560) 
-  * [MyCat - 从入门到放弃](https://blog.csdn.net/u013235478/article/details/53178657) 
+  * [MyCat - 从入门到放弃](https://blog.csdn.net/u013235478/article/details/53178657)
+   
+ ### Docker
+  * [Docker - 百度百科](https://baike.baidu.com/item/Docker/13344470?fr=aladdin)
+  * [Docker - 简介](https://www.cnblogs.com/light-sunset/p/12711962.html) 
+  * [Docker - 容器介绍](https://www.cnblogs.com/heian99/p/12056341.html)
+  * [Dockerfile - 常用命令](https://www.cnblogs.com/sheng6/p/14073918.html)
+  * [Docker - 常安装软件](https://blog.csdn.net/max_bin/article/details/108453252)
+  * [Docker - composes使用](https://blog.csdn.net/h4241778/article/details/108918608)
+  * [Docker - 搭建私有仓库](https://www.cnblogs.com/justmine/p/8666907.html )  
+  
+ ### Vue
+   * [Vue - 百度百科](https://baike.baidu.com/item/Vue.js/19884851?fr=aladdin)
+   * [Vue - 入门教程](https://www.runoob.com/w3cnote/vue-js-quickstart.html)
+   * [Vue - API](https://cn.vuejs.org/v2/api/)
+   * [Vue - 事件处理](https://cn.vuejs.org/v2/guide/events.html)
+   * [Vue - axios](http://www.voidcn.com/article/p-ootignpr-bod.html)
+   * [Vue - 表单输入](https://cn.vuejs.org/v2/guide/forms.html)
+   
+   
+   
+
+
+   
+  
+  
+      
+  
+       
+   
+
+   
+   
   
   
   
