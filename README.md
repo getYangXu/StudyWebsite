@@ -22,16 +22,27 @@
   - [Docker](#Docker)
   - [Vue](#Vue)
   - [Shiro](#Shiro)
+  - [Redis](#Redis)
+  - [Elasticsearch](#Elasticsearch)
+  - [RabbitMQ](#RabbitMQ)
   
-  https://baike.baidu.com/item/shiro/17753571?fr=aladdin
   
+  
+
   
  
  ## 基础网站
  
  ### Java基础学习
   * [Java基础学习](http://www.weixueyuan.net/java/rumen/) 
-
+  * [I/O流](https://blog.csdn.net/sinat_37064286/article/details/86537354)
+  * [多线程](https://www.cnblogs.com/mengd/p/13308297.html)  
+  * [网络通信](https://www.cnblogs.com/GarfieldEr007/archive/2004/01/13/5746793.html)
+  * [Java8新特性](https://www.jianshu.com/p/0bf8fe0f153b)
+  * [JSP,EL表达式](https://www.runoob.com/jsp/jsp-tutorial.html)
+  
+  
+  
 
  
  
@@ -116,6 +127,31 @@
    * [Shiro - 过滤器](https://www.cnblogs.com/strinkbug/p/6117353.html)
    * [Shiro - 认证](https://www.cnblogs.com/youzhibing/p/10122606.html)
    * [Shiro - 自定义realm](https://www.cnblogs.com/wujianwu/p/11259488.html)
+   
+  ### Redis
+   * [Redis - 百度百科](https://baike.baidu.com/item/Redis/6549233?fr=aladdin)
+   * [Redis - 特点与优势以及使用场景](https://www.cnblogs.com/weigy/p/12677449.html)
+   * [Redis - 主从,哨兵,集群模式安装配置](https://blog.csdn.net/qq_32858315/article/details/105122604)
+   * [Redis - 持久化策略,淘汰策略](https://cloud.tencent.com/developer/article/1499786)
+   * [Redis - 五大数据类型和基本操作命令](https://www.cnblogs.com/shenzs-whj/p/10245709.html)
+   
+  ### Elasticsearch
+   * [Elasticsearch - 百度百科](https://baike.baidu.com/item/elasticsearch/3411206?fr=aladdin)
+   * [Elasticsearch - 基础入门](https://www.cnblogs.com/jajian/p/9976900.html)
+   * [Elasticsearch - 集群以及Kibana和分词插件的安装](https://www.cnblogs.com/mojita/p/12048295.html)
+   * [Elasticsearch - 索引,分片创建与管理](https://www.cnblogs.com/hzcya1995/p/13311968.html)
+   * [Elasticsearch - 基本搜索](https://www.cnblogs.com/LQBlog/p/10430784.html)
+   
+  ### RabbitMQ 
+   * [RabbitMQ - 百度百科](https://baike.baidu.com/item/rabbitmq/9372144?fr=aladdin)
+   * [RabbitMQ - 安装](http://www.itcast.cn/news/20200709/10353348697.shtml)
+   * [RabbitMQ - 账户](https://www.cnblogs.com/zwwhnly/p/10918665.html)
+   * [RabbitMQ - 消息模式](https://www.cnblogs.com/huangting/p/11994539.html)
+   * [RabbitMQ - Spring整合](https://www.cnblogs.com/dwxt/p/8214954.html)
+    
+   
+   
+   
    
    
    
