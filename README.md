@@ -8,7 +8,13 @@
 - [目录](#目录)
 - [基础网站](#基础网站)
   - [Java基础学习](#Java基础学习)
+  - [Maven](#Maven)
+  - [Git](#Git)  
 - [高阶网站](#高阶网站)
+  - [Spring5](#Spring5)
+  - [SpringMVC](#SpringMVC)    
+  - [MyBatis](#MyBatis)
+  - [SSM](#SSM)          
 - [常用网站](#常用网站)
   - [Linux](#Linux)
 - [拓展网站](#拓展网站)
@@ -40,13 +46,53 @@
   * [网络通信](https://www.cnblogs.com/GarfieldEr007/archive/2004/01/13/5746793.html)
   * [Java8新特性](https://www.jianshu.com/p/0bf8fe0f153b)
   * [JSP,EL表达式](https://www.runoob.com/jsp/jsp-tutorial.html)
+  * [Filter@Listener](https://www.cnblogs.com/hellovoyager1/p/9152292.html)
+  * [文件的上传与下载](https://www.cnblogs.com/xdp-gacl/p/4200090.html)
+  
+ ### Maven
+  * [Maven简介和环境搭建](http://www.weixueyuan.net/java/rumen/)
+  * [Maven构建&自动化构建](https://www.cnblogs.com/zhengzhaoxiang/p/13976345.html)
+  * [pom.xml详细说明,依赖管理](https://www.cnblogs.com/xrab/articles/5502085.html)
+  * [Maven坐标,依赖,生命周期](https://blog.csdn.net/weixin_43691058/article/details/104553477)
+  
+ ### Git
+  * [Git基础知识](https://blog.csdn.net/manmanxiaohui/article/details/81869356)
+  * [Github/Gitee的注册和使用](https://blog.csdn.net/dctbnk/article/details/106104425)
+  * [Git常用操作命令](https://www.cnblogs.com/miracle77hp/articles/11163532.html)
+  * [工作目录,暂存区域以及Git仓库概念](https://www.cnblogs.com/qdhxhz/p/9757390.html)
+  * [工作目录下的文件的两种状态](https://blog.csdn.net/qinqintaylor/article/details/86709237)             
+          
   
   
-  
-
- 
+         
  
  ## 高阶网站
+ 
+  ### Spring5
+  * [Spring5 - 百度百科](https://baike.baidu.com/item/spring%E6%A1%86%E6%9E%B6/2853288?fr=aladdin) 
+  * [Spring5 - IoC介绍](https://www.cnblogs.com/liuzhen1995/p/5792564.html)
+  * [Spring5 - IoC原理讲解+反射+注解完成](https://www.cnblogs.com/shoshana-kong/p/10572006.html)
+  * [Spring5 - IoC和DI的关系和区别](https://blog.csdn.net/fuzhongmin05/article/details/55802816)
+  * [Spring5 - SpringIoC详细使用](https://blog.csdn.net/cy973071263/article/details/105405474)      
+  
+  ### SpringMVC
+  * [SpringMVC - 百度百科](https://baike.baidu.com/item/spring%E6%A1%86%E6%9E%B6/2853288?fr=aladdin)
+  * [SpringMVC - 基本配置](https://www.cnblogs.com/xujian2014/p/5235145.html)
+  * [Thymeleaf - 基本使用](https://www.jianshu.com/p/ac8201031334)
+  * [Thymeleaf - 和JSP对比说明](https://www.thymeleaf.org/doc/articles/thvsjsp.html)             
+  * [SpringMVC - 拦截器](https://www.cnblogs.com/black-spike/p/7813238.html)
+  
+  ### MyBatis
+   * [MyBatis - 百度百科](https://baike.baidu.com/item/MyBatis/2824918?fr=aladdin)
+   * [MyBatis - 基本使用](https://www.cnblogs.com/xzwblog/p/6791412.html)
+   * [MyBatis - 增删改查](https://www.cnblogs.com/shan-kylin/p/9246388.html)
+   * [MyBatis - Mapper映射器](https://blog.csdn.net/ljw874362735/article/details/103522794)                                  
+
+  ### SSM
+   * [SSM - 整合](https://muxiongxiong.blog.csdn.net/article/details/112598399)
+     
+ 
+ 
  
  ## 常用网站
  
