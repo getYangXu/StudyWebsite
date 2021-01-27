@@ -14,7 +14,10 @@
   - [Spring5](#Spring5)
   - [SpringMVC](#SpringMVC)    
   - [MyBatis](#MyBatis)
-  - [SSM](#SSM)          
+  - [SSM](#SSM) 
+  - [BootStrap](#BootStrap)         
+  
+      
 - [常用网站](#常用网站)
   - [Linux](#Linux)
 - [拓展网站](#拓展网站)
@@ -31,6 +34,7 @@
   - [Redis](#Redis)
   - [Elasticsearch](#Elasticsearch)
   - [RabbitMQ](#RabbitMQ)
+  - [Jenkins](#Jenkins)
   
   
   
@@ -90,6 +94,13 @@
 
   ### SSM
    * [SSM - 整合](https://muxiongxiong.blog.csdn.net/article/details/112598399)
+   
+  ### BootStrap
+   * [BootStrap - 百度百科](https://baike.baidu.com/item/Bootstrap/8301528?fr=aladdin)
+   * [BootStrap - 资料库](https://v3.bootcss.com/)
+   
+  
+  
      
  
  
@@ -194,6 +205,16 @@
    * [RabbitMQ - 账户](https://www.cnblogs.com/zwwhnly/p/10918665.html)
    * [RabbitMQ - 消息模式](https://www.cnblogs.com/huangting/p/11994539.html)
    * [RabbitMQ - Spring整合](https://www.cnblogs.com/dwxt/p/8214954.html)
+   
+  ### Jenkins
+   * [Jenkins - 官网](https://www.jenkins.io/)
+   * [Jenkins - 中文文档](https://www.w3cschool.cn/jenkins/)
+   * [Jenkins - Jenkins+Gitlab+Maven+Tomcat 持续集成，自动部署项目](https://www.jianshu.com/p/cfa5bb7841d6)
+   
+   
+ 
+  
+  
     
    
    
