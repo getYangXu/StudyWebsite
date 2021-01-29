@@ -37,6 +37,7 @@ HashMap计算hash对key的hashcode进行了二次hash，以获得更好的散列
 应的值为null。当get()方法返回null 值时，既可以表示HashMap 中没有该键，也可
 以表示该键所对应的值为null。因此，在HashMap 中不能用get()方法来判断HashMap 中是否存在某个键，而应该用containsKey()方法来判断。Hashtable 的键值都不能
 为null，所以可以用get()方法来判断是否含有某个键。
+[转载地址](https://blog.csdn.net/qq_35181209/article/details/74503362?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
 
 ## 如何决定使用 HashMap 还是 TreeMap？
 
