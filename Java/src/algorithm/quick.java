@@ -1,5 +1,8 @@
-package com.contents.algorithm;
+package algorithm;
 
+/**
+ * @author XinRui
+ */
 public class quick {
 
     public static void main(String[] args) {
@@ -14,7 +17,9 @@ public class quick {
 
     }
 
-    //快速排序算法
+    /**
+     * 快速排序算法
+     */
      static void quickSort(int[] arr,int left,int right){
 
         int f,t;

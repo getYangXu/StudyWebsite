@@ -1,5 +1,8 @@
-package com.contents.algorithm;
+package algorithm;
 
+/**
+ * @author yxgu
+ */
 public class Shell {
 
 
@@ -10,14 +13,17 @@ public class Shell {
         shellSort(a);
     }
 
-    //希尔排序算法
+    /**
+     * 希尔排序算法
+     */
     public static void shellSort(int[] a){
 
         int i ,j ,h;
         int r ,temp;
         int x = 0;
 
-        for(r = a.length/2;r >= 1;r/=2) { //划组排序
+        //划组排序
+        for(r = a.length/2;r >= 1;r/=2) {
 
             for (i = r; i < a.length; i++) {
                 temp = a[i];

@@ -1,4 +1,4 @@
-package com.contents.algorithm;
+package algorithm;
 
 public class Select {
 
@@ -11,7 +11,9 @@ public class Select {
     }
 
 
-    //选择排序算法
+    /**
+     * 选择排序算法
+     */
     public static void selectSort(int[] a){
 
         int index;

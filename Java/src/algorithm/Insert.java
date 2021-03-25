@@ -1,5 +1,8 @@
-package com.contents.algorithm;
+package algorithm;
 
+/**
+ * @author yxgu
+ */
 public class Insert {
 
     public static void main(String[] args) {
@@ -11,7 +14,9 @@ public class Insert {
     }
 
 
-    //插入排序算法
+    /**
+     * 当插入的数值比之前的数字大便跳出while
+     */
     public static void insertSort(int[] a){
 
         int i, j, t, h;
@@ -21,7 +26,8 @@ public class Insert {
             t = a[i];
 
             j = i-1;
-            while(j >= 0 && t < a[j]){//当插入的数值比之前的数字大便跳出while
+            //当插入的数值比之前的数字大便跳出while
+            while(j >= 0 && t < a[j]){
                 a[j+1] = a[j];
                 j--;
             }

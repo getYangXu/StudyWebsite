@@ -1,5 +1,8 @@
-package com.contents.algorithm;
+package algorithm;
 
+/**
+ * @author yxgu
+ */
 public class Bubbling {
 
 
@@ -11,8 +14,10 @@ public class Bubbling {
     }
 
 
-    //冒泡排序方法
-    public static void bubbleSort(int[] a){
+    /**
+     * 冒泡排序方法
+     */
+    static void bubbleSort(int[] a){
 
         int temp;
 
