@@ -26,6 +26,7 @@
       
 - [常用网站](#常用网站)
   - [Linux](#Linux)
+  - [SQL数据清洗](#SQL数据清洗)     
 - [拓展网站](#拓展网站)
   - [Zookeeper](#Zookeeper)
   - [Dubbo](#Dubbo)
@@ -120,6 +121,12 @@
   * [Linux - 网络基础](https://www.cnblogs.com/mrwuzs/p/9482828.html)   
   * [Linux - VMware安装Linux](https://www.cnblogs.com/yunwangjun-python-520/p/11288690.html)
   * [Linux - Linux命令](https://www.runoob.com/linux/linux-command-manual.html)     
+  
+  
+  
+ ### SQL数据清洗
+  * [SQL数据清洗-CSDN](https://blog.csdn.net/jacky_zhuyuanlu/article/details/82840121)
+  * [如何利用sql对数据进行清理-知乎](https://zhuanlan.zhihu.com/p/90494202)    
   
   
   
