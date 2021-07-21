@@ -80,6 +80,44 @@ SortedMap接口：它用来保持键的有序顺序。SortedMap接口为映像�
 [转载地址](https://www.cnblogs.com/javazhiyin/p/11652526.html)
 
 ## 说一下 HashMap 的实现原理？
+#### 1.构造函数
+1.1  HashMap()
+```java
+// 1.无参构造方法、
+    // 构造一个空的HashMap，初始容量为16，负载因子为0.75
+    public HashMap() {        
+      this.loadFactor = DEFAULT_LOAD_FACTOR; 
+     // all other fields defaulted
+    }
+```
+1.2 HashMap(int initialCapacity)
+```java
+ // 2.构造一个初始容量为initialCapacity，负载因子为0.75的空的HashMap，
+    public HashMap(int initialCapacity) {        
+    
+       this(initialCapacity, DEFAULT_LOAD_FACTOR);
+    }
+```
+
+1.3 HashMap(int initialCapacity, float loadFactor)
+```java
+// 3.构造一个空的初始容量为initialCapacity，负载因子为loadFactor的HashMap
+    public HashMap(int initialCapacity, float loadFactor) {        
+if (initialCapacity < 0)     throw new IllegalArgumentException("Illegal initial capacity: " +initialCapacity);        
+if (initialCapacity > MAXIMUM_CAPACITY)    initialCapacity = MAXIMUM_CAPACITY;        
+if (loadFactor <= 0 || Float.isNaN(loadFactor))    throw new IllegalArgumentException("Illegal load factor: " +loadFactor);        
+this.loadFactor = loadFactor;        
+this.threshold = tableSizeFor(initialCapacity);
+    }    //最大容量
+    //static final int MAXIMUM_CAPACITY = 1 << 30;
+```
+
+
+
+
+
+
+
 
 ## 说一下 HashSet 的实现原理？
 
